@@ -87,24 +87,26 @@
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 
 <br />
 
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=radhikamalpani1702&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Gautam7070&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=radhikamalpani1702&theme=ambient_gradient" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautam7070&theme=ambient_gradient" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
 </br>
+
 <p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
+  <b>Thank you for visiting my profile!</b>
 </p>
+
 
 <p align="center">
   <a href="https://buymeacoffee.com/radhikamalpani" target="_blank">
