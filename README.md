@@ -1,10 +1,16 @@
 # 👋 Hi there, I'm Gautam Kumar!
 
+> 🚀 AI Engineer | Python & FastAPI | Machine Learning | Open Source Contributor
+
+---
+
 ## 🎓 About Me
 
 I’m a Master of Computer Applications (MCA) graduate from Lovely Professional University (LPU) with a strong focus on AI engineering and backend development. I specialize in building data-driven AI solutions, scalable RESTful APIs, and backend systems using Python and FastAPI to solve real-world problems.
 
 With a solid foundation in machine learning, data analytics, and software engineering principles, and hands-on experience with NumPy, Pandas, Scikit-learn, and LLM-based applications, I continuously explore emerging AI technologies and modern backend practices to build reliable, production-ready systems.
+
+---
 
 ### 🚀 What I Do
 - 🔧 Design and develop scalable **backend systems and RESTful APIs** using **Python and FastAPI**
@@ -15,6 +21,8 @@ With a solid foundation in machine learning, data analytics, and software engine
 - ☁️ Deploy and manage applications with production-ready practices (API deployment, environment configuration)
 - 🤝 Contribute to **open-source projects** and continuously learn emerging AI and backend technologies
 
+---
+
 ### 💡 Currently Exploring
 - Advanced **Machine Learning techniques** and model optimization
 - **LLM-based application development** and Generative AI workflows
@@ -24,11 +32,47 @@ With a solid foundation in machine learning, data analytics, and software engine
 
 ---
 
+## 🏆 Featured Projects
+
+### 🔹 AI Career Risk Analyzer
+- 📌 ML-based system to analyze career automation risks  
+- 🧠 Tech: Python, Scikit-learn, FastAPI, Streamlit  
+- 📊 Features: Predictive modeling, insights generation, interactive dashboards  
+
+🔗 Repository: https://github.com/Gautam7070/Chat-With-My-Resume
+
+---
+
+### 🔹 AI Feedback Analysis Platform
+- 📌 LLM-powered system to analyze and summarize customer feedback  
+- 🧠 Tech: Python, FastAPI, Gemini API, PostgreSQL, ChromaDB  
+- ⚙️ Features: Review summarization, action recommendations, AI-generated responses  
+
+🔗 Repository: *(add link when public)*
+
+---
+
+## 💬 Ask Me About
+- AI & Machine Learning fundamentals  
+- Python & FastAPI backend development  
+- Data analysis, EDA & visualization  
+- Vector databases & RAG-based systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gautam7070&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Gautam7070&theme=tokyonight" height="165"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam7070)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itskumargautam
-)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itskumargautam)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gautam7070)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/Pale_Leadership6460)
 
@@ -56,6 +100,6 @@ With a solid foundation in machine learning, data analytics, and software engine
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
 ---
+
+💭 *Curious problem-solver who enjoys turning ideas into AI-powered systems.*
