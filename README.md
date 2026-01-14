@@ -1,134 +1,81 @@
-<h1 align="center">👋 Hi, I'm Gautam Kumar</h1>
+<h1 align="center">👋 Hi, I'm Sahil Thakur</h1>
+<h3 align="center">Backend Developer | .NET Enthusiast | MCA Graduate</h3>
 
-<h3 align="center">
-AI Engineer | Python & FastAPI Developer | Data Analytics & ML
-</h3>
+---
 
+## 🎓 About Me
+🎓 MCA Graduate from **Lovely Professional University (LPU)**  
+💻 Specialized in **Back-End Development using .NET**  
+🚀 Passionate about building **scalable, efficient, and robust applications**
+
+I love exploring new technologies and applying software engineering principles to solve real-world problems.
+
+---
+
+## 🚀 What I Do
+- 🔧 Build high-performance backend systems using **.NET Core & C#**
+- 🌐 Design **RESTful APIs & Microservices**
+- 📊 Work with **MySQL & SQLite**
+- 🐳 Containerize applications using **Docker**
+- 🤝 Contribute & collaborate in **open-source projects**
+
+---
+
+## 💡 Currently Exploring
+- Advanced **.NET Design Patterns**
+- ☁️ Cloud & DevOps
+- 🤖 Machine Learning with .NET
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautam7070/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gautamkumar.turki@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Gautam7070">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord"></a>
+  <a href="https://www.reddit.com/"><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit"></a>
 </p>
 
 ---
 
-## 🧠 Professional Summary
-AI-focused **MCA postgraduate** with strong experience in **data analysis, predictive modeling**, and **FastAPI-based backend development**.  
-Skilled in building **end-to-end AI solutions**, REST APIs, and data-driven applications using **Python** and modern ML libraries.
+## 💻 Tech Stack
 
-Actively seeking **AI / ML Engineer / Data Science / Backend Intern & Fresher roles**.
-
----
-
-## 🚀 Core Skills (Recruiter-Friendly)
-
-### 🐍 Programming & Backend
-- Python
-- FastAPI
-- REST API Development
-- Backend Architecture
-
-### 📊 AI, ML & Data Analytics
-- NumPy, Pandas
-- Scikit-learn
-- Data Cleaning & EDA
-- Predictive Modeling
-- Descriptive Statistics
-- Insight Generation
-- Matplotlib, Seaborn
-
-### 🛠 Tools & Systems
-- Git & GitHub
-- Linux
-- Model Deployment
-- API Integration
+### 🧠 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔹 AI Career Risk Analyzer  
-**Tech:** Python, Scikit-learn, FastAPI, Streamlit  
-📅 *Nov 2025 – Dec 2025*
-
-- Analyzed career role data across industries to identify **automation risk patterns**
-- Performed **feature engineering, preprocessing, and EDA**
-- Built predictive ML models to generate **job risk scores**
-- Developed **REST APIs using FastAPI**
-- Created an interactive **Streamlit dashboard** for visualization
-
-👉 *Outcome:* Delivered actionable career insights using ML-driven risk analysis
+### ⚙️ Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
 ---
 
-### 🔹 AI Feedback Analysis Platform  
-**Tech:** Python, FastAPI, LLMs (Gemini API), Render, Vercel  
-📅 *Dec 2025 – Jan 2026*
-
-- Built an **AI-powered feedback analysis system** using LLMs
-- Automated:
-  - Review summarization
-  - Action recommendation
-  - Customer response generation
-- Implemented **robust fallback handling** for LLM failures
-- Deployed backend on **Render** and frontend on **Vercel**
-- Ensured secure **environment variable & CORS management**
-
-👉 *Outcome:* Scalable AI system for real-world customer feedback automation
+### 🗄 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 ---
 
-## 🧑‍💻 Experience
-
-### 🛠 Computer Hardware Assembly & Optimization  
-📅 *Jan 2022 – Dec 2022*
-
-- Assembled and configured custom PC systems
-- Diagnosed and resolved system-level performance issues
-- Optimized boot time using BIOS tuning
-- Gained strong foundation in **OS internals & system troubleshooting**
+### 🛠 Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare)
 
 ---
 
-## 🎓 Education
-🎓 **Master of Computer Applications (MCA)** — *2025*  
-🏫 Lovely Professional University, Punjab  
-📊 **CGPA:** 7.2 / 10
+### 📊 Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
 
 ---
 
-## 📜 Certifications
-- 🛡 **Google Professional Cybersecurity Certificate (2025)**  
-  *Coursera*  
-  - Network security  
-  - Linux & SQL  
-  - Threat detection  
-  - Incident response  
-
----
-
-## 📈 GitHub Stats (Dark & Light Friendly)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam7070&show_icons=true&theme=default" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Gautam7070&theme=default" height="165"/>
-</p>
-
----
-
-## ✨ What Sets Me Apart
-✔ End-to-end AI project delivery  
-✔ Clean backend API design  
-✔ Strong ML fundamentals  
-✔ Deployment-ready mindset  
-✔ Continuous learner  
-
----
-
-⭐ *Thanks for visiting my profile — open to opportunities & collaborations!*
+⭐ *Thanks for visiting my profile!*
