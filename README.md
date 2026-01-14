@@ -1,105 +1,132 @@
-# 👋 Hi there, I'm Gautam Kumar!
+<h1 align="center">👋 Hi there, I'm Gautam Kumar</h1>
 
-> 🚀 AI Engineer | Python & FastAPI | Machine Learning | Open Source Contributor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=AI+Engineer;Python+%26+FastAPI+Developer;Machine+Learning+%26+LLMs;Vector+Databases+%26+RAG;Open+Source+Contributor" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gautam7070&style=flat-square&color=00f2fe"/>
+</p>
 
-## 🎓 About Me
-
-I’m a Master of Computer Applications (MCA) graduate from Lovely Professional University (LPU) with a strong focus on AI engineering and backend development. I specialize in building data-driven AI solutions, scalable RESTful APIs, and backend systems using Python and FastAPI to solve real-world problems.
-
-With a solid foundation in machine learning, data analytics, and software engineering principles, and hands-on experience with NumPy, Pandas, Scikit-learn, and LLM-based applications, I continuously explore emerging AI technologies and modern backend practices to build reliable, production-ready systems.
-
----
-
-### 🚀 What I Do
-- 🔧 Design and develop scalable **backend systems and RESTful APIs** using **Python and FastAPI**
-- 🤖 Build **data-driven AI and machine learning solutions** for real-world use cases
-- 📊 Perform **data analysis, preprocessing, and predictive modeling** using **NumPy, Pandas, and Scikit-learn**
-- 📈 Create interactive dashboards and visualizations using **Streamlit, Matplotlib, and Seaborn**
-- 🗄 Work with **PostgreSQL, SQLite, and Vector Databases (ChromaDB)** for structured and semantic data storage
-- ☁️ Deploy and manage applications with production-ready practices (API deployment, environment configuration)
-- 🤝 Contribute to **open-source projects** and continuously learn emerging AI and backend technologies
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=140&section=header&text=AI%20%7C%20Backend%20%7C%20ML&fontSize=28&fontColor=ffffff"/>
+</p>
 
 ---
 
-### 💡 Currently Exploring
-- Advanced **Machine Learning techniques** and model optimization
-- **LLM-based application development** and Generative AI workflows
-- **Vector databases (ChromaDB)** and Retrieval-Augmented Generation (RAG)
-- **Scalable backend architectures** with Python & FastAPI
-- **Model deployment, API optimization, and production best practices**
+## 🧠 About Me
+
+I’m a **Master of Computer Applications (MCA)** graduate from **Lovely Professional University (LPU)**, focused on **AI engineering and backend development**.
+
+I specialize in building **data-driven AI systems**, **scalable REST APIs**, and **LLM-powered applications** using **Python and FastAPI**.  
+My work blends **machine learning, data analytics, vector databases, and clean backend design** to deliver **production-ready systems**.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 🚀 What I Do
+- 🔧 Build **scalable backend systems & REST APIs** with **Python & FastAPI**
+- 🤖 Develop **ML & LLM-based AI applications**
+- 📊 Perform **EDA, feature engineering & predictive modeling**
+- 📈 Design **interactive dashboards & visual analytics**
+- 🧠 Implement **Vector DBs (ChromaDB) & RAG pipelines**
+- ☁️ Deploy **production-grade AI backends**
+- 🌍 Actively contribute to **open source**
+
+---
+
+## 💡 Currently Exploring
+- Advanced **Machine Learning optimization**
+- **LLM agents & Generative AI workflows**
+- **Vector databases & RAG architectures**
+- **Scalable AI system design**
+- **Model deployment & inference optimization**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🏆 Featured Projects
 
-### 🔹 AI Career Risk Analyzer
-- 📌 ML-based system to analyze career automation risks  
-- 🧠 Tech: Python, Scikit-learn, FastAPI, Streamlit  
-- 📊 Features: Predictive modeling, insights generation, interactive dashboards  
+### 🧠 AI Career Risk Analyzer
+<p>
+  <img src="https://img.shields.io/badge/ML_Model-Active-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-success?style=flat-square"/>
+</p>
 
-🔗 Repository: https://github.com/Gautam7070/Chat-With-My-Resume
+- 🔍 Predicts **career automation risk**
+- 🧠 **Tech:** Python, Scikit-learn, FastAPI, Streamlit
+- 📊 **ML insights + dashboards**
+
+🔗 **Repo:** https://github.com/Gautam7070/ai-career-risk-analyzer
 
 ---
 
-### 🔹 AI Feedback Analysis Platform
-- 📌 LLM-powered system to analyze and summarize customer feedback  
-- 🧠 Tech: Python, FastAPI, Gemini API, PostgreSQL, ChromaDB  
-- ⚙️ Features: Review summarization, action recommendations, AI-generated responses  
+### 🤖 AI Feedback Analysis Platform
+<p>
+  <img src="https://img.shields.io/badge/LLM_Powered-Gemini-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VectorDB-ChromaDB-blue?style=flat-square"/>
+</p>
 
-🔗 Repository: *(add link when public)*
+- 💬 Analyzes & summarizes customer feedback using LLMs
+- 🧠 **Tech:** Python, FastAPI, Gemini API, PostgreSQL, ChromaDB
+- ⚙️ RAG-based summaries & recommendations
+
+🔗 **Repo:** https://github.com/Gautam7070/fynd-ai-assignment-user-dashboard
 
 ---
 
 ## 💬 Ask Me About
-- AI & Machine Learning fundamentals  
-- Python & FastAPI backend development  
-- Data analysis, EDA & visualization  
-- Vector databases & RAG-based systems  
+- AI & Machine Learning  
+- Python & FastAPI backend systems  
+- LLMs, RAG & vector databases  
+- Data analytics & visualization  
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gautam7070&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Gautam7070&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gautam7070&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Gautam7070&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautam7070&bg_color=0d1117&color=00f2fe&line=4facfe&point=ffffff&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gautam7070)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/itskumargautam)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gautam7070)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white&style=for-the-badge)](https://reddit.com/user/Pale_Leadership6460)
+<p align="center">
+  <a href="https://linkedin.com/in/gautam7070"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://instagram.com/itskumargautam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://discord.gg/gautam7070"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord"/></a>
+  <a href="https://reddit.com/user/Pale_Leadership6460"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit"/></a>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🐍 Contribution Snake
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2C2C?style=for-the-badge)
-
-### Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-💭 *Curious problem-solver who enjoys turning ideas into AI-powered systems.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=140&section=footer"/>
+</p>
+
+💭 *Curious problem-solver who enjoys turning ideas into intelligent, AI-powered systems.*
